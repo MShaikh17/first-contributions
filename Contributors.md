@@ -9,8 +9,7 @@
 -Hey I am Harshvardhan Jha . I am new programmer learning to code .
 -FuelTheburn
 -SummerInDecember was here
--Hi their, i am Harpreet from Bharat 🙏
-- Greetings! from Muaaz (https://github.com/MShaikh17). My 1st contribution!
+-Hi their, i am Harpreet from Bharat 🙏  
 -[Vijayan K S](https://github.com/ksvijayan06) **If you are reading this, Remember, I'll always Love You🫵. This contribution made for the Octoberfest 2024 event. If you want to join with for the Open Source Contribution follow me on github😘**
 - Hello World! I`m [Isaac Huang](https://github.com/isaac-tw) and this is my **first time contributing to another GitHub repository!**
 - Hey, I'm [Rakshit Upadhyay](https://github.com/rakshit-upadhyay214) and it's my first open source contribution.
@@ -157,6 +156,7 @@ hello world! I'm [sanika bhalerao](https://github.com/SanikaBhalerao1345) and th
 - [Muhammad Ahmed](https://github.com/Ahm3d-Shaikh) **My first contribution**
 - Gayathri (https://github.com/Gayathri-Gondi) My first contribution
 - [Dipanshu Rawat](https://github.com/dipanshurdev) 🫡
+- Greetings! from [Muaaz](https://github.com/MShaikh17). My 1st contribution! <br/>
 - [Eren Jeager] First Contribution
 - [Tiziano Carranza](https://github.com/tizianocarranza) **My first contribution, thank you guys!**
 - [Kjetil Paulsen](https://github.com/noorac) **Thanks for the opportunity to make my first contribution!
